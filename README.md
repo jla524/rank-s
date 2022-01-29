@@ -1,4 +1,4 @@
-# Calculate Rank
+# Rank S
 
 When can I reach the next rank in my GitHub stats? Let's find out!
 
